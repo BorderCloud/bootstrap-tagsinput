@@ -1,0 +1,24 @@
+{
+    "name": "bordercloud/bootstrap-tagsinput",
+    "description": "Clone of  bootstrap-tagsinput/bootstrap-tagsinput",
+    "type": "library",
+    "homepage": "http://bootstrap-tagsinput.github.io/bootstrap-tagsinput/examples/",
+    "version": "0.7.2",
+    
+    "require": {
+    },
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "bordercloud/bootstrap-tagsinput",
+                "version": "0.7.2",
+                "source": {
+                    "url": "https://github.com/BorderCloud/bootstrap-tagsinput",
+                    "type": "git",
+                    "reference": "0.7.2"
+                }
+            }
+        }
+    ]    
+}
